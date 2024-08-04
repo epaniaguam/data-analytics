@@ -1,0 +1,4 @@
+.replace("primary","primario")
+.replace("secondary","secundario")
+.replace("tertiary","superior")
+.replace("unknown","desconocido")

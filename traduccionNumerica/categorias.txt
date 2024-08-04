@@ -1,0 +1,49 @@
+.replace("administración", "2")
+.replace("obrero", "7")
+.replace("empresario", "3")
+.replace("empleada doméstica", "4")
+.replace("gerente", "5")
+.replace("jubilado", "9")
+.replace("autonomo", "8")
+.replace("servicios", "11")
+.replace("estudiante", "6")
+.replace("técnico", "10")
+.replace("desempleado", "1")
+.replace("desconocido", "0")
+
+
+
+.replace("desconocido","0")
+.replace("primaria","1")
+.replace("secundaria","2")
+.replace("superior","3")
+
+
+.replace("si","1")
+.replace("no","0")
+
+
+.replace("desconocido","0")
+.replace("telefono","1")
+.replace("celular","2")
+
+
+.replace("ene","1")
+.replace("feb","2")
+.replace("mar","3")
+.replace("abr","4")
+.replace("may","5")
+.replace("jun","6")
+.replace("jul","7")
+.replace("ago","8")
+.replace("sep","9")
+.replace("oct","10")
+.replace("nov","11")
+.replace("dic","12")
+
+
+
+.replace("desconocido", "0")
+.replace("fracaso", "1")
+.replace("exito", "2")
+.replace("otro", "3")

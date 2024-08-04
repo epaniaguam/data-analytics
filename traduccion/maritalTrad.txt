@@ -1,0 +1,4 @@
+.replace("divorced","divorciado")
+.replace("married","casado")
+.replace("single","soltero")
+.replace("unknown","desconocido")
